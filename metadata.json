@@ -1,8 +1,10 @@
 {
   "name": "Desaturated Tray Icons 2",
   "description": "Display all tray icons in grayscale",
-  "uuid": "iflyun@gmail.com",
+  "url": "https://github.com/davidthamm/DesaturatedTrayIconsGnome",
+  "uuid": "DesaturatedTrayIconsGnome@davidthamm.github.com",
   "shell-version": [
     "50"
-  ]
+  ],
+  "version": 1
 }
